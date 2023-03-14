@@ -1,0 +1,14 @@
+infinite side scroller 
+
+"ken" shoryuken
+take inspiration from lost ark classes maybe?
+	paladin
+	striker
+	berserker
+	spirit bomb
+
+level system 
+score multiplier for big numbers
+screen shake?
+
+"bosses" tanky enemies?
